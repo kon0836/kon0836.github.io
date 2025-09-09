@@ -1,0 +1,47 @@
+		*{
+ margin : 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+
+
+
+body {
+    margin: 100px;
+    font-family : san-serif;
+    background-color: lightgray;
+}
+
+a{
+	color: deepskyblue;
+
+}
+
+.pink {
+	color:darkred;
+}
+
+ul { 
+margin-top: 40px }
+
+
+li {font-size: 12pt;
+line-height: 30pt}
+
+
+img{ width: 200px; }
+
+iframe { width:700px; }
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 704px) {
+
+}
