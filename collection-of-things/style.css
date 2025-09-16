@@ -1,0 +1,89 @@
+		*{
+ margin : 0;
+ padding: 1px;
+ box-sizing: border-box;
+}
+
+h1{ display: inline-block;
+    margin : 0px;
+    font-family: "pretendard",sans-serif;
+    font-size: 30px;
+}
+
+h1:hover {
+    background-color:green;
+    font-style:;
+}
+
+
+img:hover{
+    filter:grayscale(100%);
+    opacity: 50%
+}
+
+
+
+figure{
+    width:150px;
+    display: inline-block;
+}
+
+figcaption {
+    text-align:center;
+background-color:yellow; }
+
+img{
+    width:150px;
+    border-radius: 50%;
+}
+
+
+
+
+body {
+    margin: 20px;
+    font-family: "pretendard",sans-serif;
+    font-size:;
+}
+
+details {
+    cursor: pointer; 커서 손가락
+}
+
+.indent {
+    margin-left: 20px; 소분류 마진
+}
+
+summary::before {
+  color: palevioletred;
+  font-size: 13pt;
+  content: "✸ ";
+}
+
+.science::marker{
+
+
+
+}
+
+
+
+
+
+.a{ 
+color:tomato
+text-decoration : 
+
+}
+
+
+
+li::marker {
+    color: ; 
+    font-size: ; 
+    content: ""; 
+}
+
+img {
+    width: 150px;
+}
