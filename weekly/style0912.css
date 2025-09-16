@@ -1,0 +1,40 @@
+		*{
+ margin : 0;
+ padding: 30;
+ box-sizing: border-box;
+}
+
+
+.big-text {	
+	font-size: 40px;
+}
+
+body {
+    margin: 20px;
+    font-family: "pretendard", sans-serif;
+    font-size : 150px;
+    font-weight: 600;
+    background-color: deeppink;
+}
+
+.diary{
+    color: white;
+}
+img{ width: 100px; }
+
+
+
+@media screen and (max-width: 704px) {
+
+}
+
+.cheerleading {
+  font-size: 10px;
+}
+
+
+
+ul {
+  list-style-position: inside;
+  padding-left: 0; 
+  margin-left: 0;  

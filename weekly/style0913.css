@@ -1,0 +1,39 @@
+		*{
+ margin : 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+
+
+
+
+
+body {
+    margin: 30px;
+    font-family: "Open Sans", sans-serif;
+    font-size : 30px;
+    background-color: black;
+}
+
+
+h1 {font-size: 400px;
+    text-align: center;
+}
+
+.one {
+  text-align: center;  
+  color: white;
+}
+
+@media screen and (max-width: 704px) {
+
+}
+
+
+
+
+ul {
+  list-style-position: inside;
+  padding-left: 0; 
+  margin-left: 0;  
