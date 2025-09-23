@@ -4,54 +4,68 @@
  box-sizing: border-box;
 }
 
+
+
 h1{ display: inline-block;
     margin : 0px;
     font-family: "pretendard",sans-serif;
-    font-size: 30px;
+    font-size: 100px;
+    color: saddlebrown;
+
 }
 
-h1:hover {
-    background-color:green;
-    font-style:;
+h1:hover { cursor: pointer;
+    background-color:bisque;
+    font-style:"pretendard";
 }
 
 
 img:hover{
     filter:grayscale(100%);
-    opacity: 50%
+    opacity: 50%;
+    object-fit: cover;
 }
 
 
 
 figure{
     width:150px;
+    height: 100%;
     display: inline-block;
 }
 
 figcaption {
     text-align:center;
-background-color:yellow; }
+background-color:yellow; 
+}
 
 img{
     width:150px;
+    heigt: 100%;
     border-radius: 50%;
 }
 
 
+.joji{   text-align:center;
+background-color:greenyellow; 
+}
 
 
 body {
+
     margin: 20px;
     font-family: "pretendard",sans-serif;
     font-size:;
+    background-color: beige;
 }
 
 details {
-    cursor: pointer; 커서 손가락
+    cursor: pointer; 
 }
 
 .indent {
-    margin-left: 20px; 소분류 마진
+    margin-left: 20px; 
+
 }
 
 summary::before {
@@ -60,30 +74,13 @@ summary::before {
   content: "✸ ";
 }
 
-.science::marker{
-
-
-
-}
-
-
-
 
 
 .a{ 
-color:tomato
+color:tomato;
 text-decoration : 
 
 }
 
 
 
-li::marker {
-    color: ; 
-    font-size: ; 
-    content: ""; 
-}
-
-img {
-    width: 150px;
-}
