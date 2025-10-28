@@ -1,0 +1,53 @@
+		*{
+ margin : 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+
+@font-face{
+	font-family: 'abc';
+	src : url() format()
+}
+
+
+
+body {
+    margin: 100px;
+    font-family : "Roboto Mono", monospace;
+    background-color: lightgray;
+}
+
+a{
+	color: deepskyblue;
+
+}
+
+.pink {
+	color:palevioletred;
+}
+
+ul { 
+margin-top: 40px }
+
+
+li {font-size: 12pt;
+line-height: 20pt}
+
+
+
+img{ width: 200px; }
+
+iframe { width:700px; }
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 704px) {
+
+}
